@@ -3,8 +3,9 @@ models/
 tmp/
 *.bak
 *.pkl
-bears/
+bears*/
 __pycache__/
 .last_checked
 .gitconfig
 .ipynb_checkpoints/
+venv
